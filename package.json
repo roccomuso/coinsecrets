@@ -1,0 +1,36 @@
+{
+  "name": "coinsecrets",
+  "version": "1.0.0",
+  "description": "Unofficial client to Coinsecrets.org API",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roccomuso/coinsecrets.git"
+  },
+  "keywords": [
+    "coinsecrets",
+    "crypto",
+    "client",
+    "api",
+    "op_return",
+    "metadata",
+    "blockchain"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "author": "Rocco Musolino (@roccomuso)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roccomuso/coinsecrets/issues"
+  },
+  "homepage": "https://github.com/roccomuso/coinsecrets#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "node-fetch": "^2.1.2",
+    "qs": "^6.5.2"
+  }
+}
