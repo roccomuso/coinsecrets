@@ -20,7 +20,7 @@
     "blockchain"
   ],
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "author": "Rocco Musolino (@roccomuso)",
   "license": "MIT",
