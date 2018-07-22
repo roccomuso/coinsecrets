@@ -1,6 +1,6 @@
 {
   "name": "coinsecrets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial client to Coinsecrets.org API",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,6 @@
   "homepage": "https://github.com/roccomuso/coinsecrets#readme",
   "dependencies": {
     "debug": "^3.1.0",
-    "node-fetch": "^2.1.2",
-    "qs": "^6.5.2"
+    "node-fetch": "^2.1.2"
   }
 }
